@@ -1,6 +1,13 @@
 # Ember-autox-core
 
-This README outlines the details of collaborating on this Ember addon.
+AutoX Ember.js core utils
+
+## Dependencies
+
+```sh
+ember-concurrency
+ember-lodash
+```
 
 ## Installation
 

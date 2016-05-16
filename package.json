@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/autoxjs/ember-autox-core",
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -31,11 +31,16 @@
     "ember-cli-release": "0.2.8",
     "ember-cli-sri": "^2.1.0",
     "ember-cli-uglify": "^1.2.0",
+    "ember-concurrency": "0.7.1",
     "ember-data": "^2.5.0",
     "ember-disable-prototype-extensions": "^1.1.0",
     "ember-export-application-global": "^1.0.5",
+    "ember-inflector": "1.9.4",
     "ember-load-initializers": "^0.5.1",
+    "ember-lodash": "0.0.7",
+    "ember-polymorphica": "0.1.0",
     "ember-resolver": "^2.0.3",
+    "ember-router-dsl": "0.1.1",
     "ember-try": "^0.2.2",
     "loader.js": "^4.0.1"
   },
@@ -43,6 +48,7 @@
     "ember-addon"
   ],
   "dependencies": {
+    "ember-cli-coffeescript": "1.13.2",
     "ember-cli-babel": "^5.1.6"
   },
   "ember-addon": {
